@@ -34,7 +34,7 @@ class kreator extends CI_Controller
             //masuk ke pemeriksaan email dan password
             $this->load->view('kreator/cekRegistrasiAwal',$data);
         }else{
-            echo "<span style='color:red;'>Format email salah !!!</span><hr>";
+            echo "<span style='color:red;'>Format email salah, silahkan masukkan kembali !!!</span><hr>";
         }
         
     }
