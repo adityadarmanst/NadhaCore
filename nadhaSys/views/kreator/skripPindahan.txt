@@ -1,0 +1,8 @@
+if(email==""){
+        $('#txtEmail').focus();
+    }else if(hp==""){
+        $('#txtHp').focus();
+    }else{
+        $('#conStatusDaftar').html('<i class="fa fa-spin fa-refresh"></i> Memeriksa ...');
+        $('#conStatusDaftar').load('cekRegistrasiAwal',{'email':email,'hp':hp});
+    }

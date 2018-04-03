@@ -1,0 +1,922 @@
+[24-Mar-2016 17:43:08 UTC] PHP Fatal error:  Call to undefined function myql_query() in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/kreatorRanking.php on line 34
+[24-Mar-2016 17:43:52 UTC] PHP Fatal error:  Call to undefined function myql_query() in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/kreatorRanking.php on line 34
+[24-Mar-2016 17:45:08 UTC] PHP Fatal error:  Call to undefined function myql_query() in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/kreatorRanking.php on line 34
+[24-Mar-2016 17:45:28 UTC] PHP Fatal error:  Call to undefined function myql_query() in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/kreatorRanking.php on line 34
+[10-Apr-2016 09:23:43 UTC] PHP Parse error:  syntax error, unexpected '$fProfilKreator' (T_VARIABLE) in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/lihatSemuaKreator.php on line 41
+[10-Apr-2016 09:24:01 UTC] PHP Parse error:  syntax error, unexpected '$fProfilKreator' (T_VARIABLE) in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/lihatSemuaKreator.php on line 41
+[10-Apr-2016 09:24:13 UTC] PHP Parse error:  syntax error, unexpected '$fProfilKreator' (T_VARIABLE) in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/lihatSemuaKreator.php on line 41
+[10-Apr-2016 09:25:15 UTC] PHP Parse error:  syntax error, unexpected '$fProfilKreator' (T_VARIABLE) in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/lihatSemuaKreator.php on line 41
+[10-Apr-2016 09:26:24 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/lihatSemuaKreator.php on line 43
+[06-May-2016 15:33:40 UTC] PHP Fatal error:  Call to undefined function base_link() in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/cekRegistrasiAwal.php on line 5
+[06-May-2016 16:00:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/cekRegistrasiAwal.php on line 15
+[06-May-2016 16:01:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/cekRegistrasiAwal.php on line 19
+[06-May-2016 16:02:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/cekRegistrasiAwal.php on line 19
+[16-Sep-2016 18:13:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/creativeChannel.php on line 25
+[16-Sep-2016 18:14:25 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/creativeChannel.php on line 23
+[16-Sep-2016 18:23:21 UTC] PHP Parse error:  syntax error, unexpected 'functon' (T_STRING), expecting variable (T_VARIABLE) in /home/nasha112/public_html/nadhacreative.com/nadhaSys/controllers/kreator.php on line 184
+[16-Sep-2016 18:23:23 UTC] PHP Parse error:  syntax error, unexpected 'functon' (T_STRING), expecting variable (T_VARIABLE) in /home/nasha112/public_html/nadhacreative.com/nadhaSys/controllers/kreator.php on line 184
+[16-Sep-2016 18:23:34 UTC] PHP Parse error:  syntax error, unexpected 'functon' (T_STRING), expecting variable (T_VARIABLE) in /home/nasha112/public_html/nadhacreative.com/nadhaSys/controllers/kreator.php on line 184
+[16-Sep-2016 18:23:46 UTC] PHP Parse error:  syntax error, unexpected 'functon' (T_STRING), expecting variable (T_VARIABLE) in /home/nasha112/public_html/nadhacreative.com/nadhaSys/controllers/kreator.php on line 184
+[26-Sep-2016 03:26:23 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/nasha112/public_html/nadhacreative.com/nadhaSys/controllers/kreator.php on line 68
+[25-Nov-2016 16:32:37 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '$' in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/login.php on line 47
+[25-Nov-2016 16:32:44 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '$' in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/login.php on line 47
+[26-Nov-2016 14:11:04 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '$' in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/login.php on line 47
+[26-Nov-2016 14:11:26 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '$' in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/login.php on line 47
+[26-Nov-2016 14:13:36 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '$' in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/login.php on line 47
+[26-Nov-2016 14:13:40 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '$' in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/login.php on line 47
+[26-Nov-2016 14:13:42 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '$' in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/login.php on line 47
+[26-Nov-2016 14:17:06 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '$' in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/login.php on line 47
+[26-Nov-2016 14:17:52 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '$' in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/login.php on line 47
+[26-Nov-2016 19:58:33 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '$' in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/login.php on line 47
+[26-Nov-2016 19:58:44 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '$' in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/login.php on line 47
+[26-Nov-2016 20:00:06 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '$' in /home/nasha112/public_html/nadhacreative.com/nadhaSys/views/kreator/login.php on line 47
+[15-Nov-2017 23:01:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/ngaturLaman/berandaUtama.php:4
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/controllers/ngaturLaman.php(51): CI_Loader->view('ngaturLaman/ber...')
+#3 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): ngaturLaman->berandaUtama()
+#4 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#5 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/ngaturLaman/berandaUtama.php on line 4
+[22-Nov-2017 17:03:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::num_rows() in /home/nadhaalditha/public_html/nadhaSys/views/homepage/depan.php:17
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/controllers/homepage.php(32): CI_Loader->view('homepage/depan')
+#3 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): Homepage->index()
+#4 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#5 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/homepage/depan.php on line 17
+[23-Nov-2017 12:46:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/ngaturLaman/berandaUtama.php:4
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/controllers/ngaturLaman.php(51): CI_Loader->view('ngaturLaman/ber...')
+#3 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): ngaturLaman->berandaUtama()
+#4 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#5 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/ngaturLaman/berandaUtama.php on line 4
+[27-Nov-2017 02:06:43 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '{' or '$' in /home/nadhaalditha/public_html/nadhaSys/views/kreator/login.php on line 56
+[27-Nov-2017 02:07:32 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '{' or '$' in /home/nadhaalditha/public_html/nadhaSys/views/kreator/login.php on line 56
+[27-Nov-2017 02:13:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php:19
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#3 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#4 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#5 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php on line 19
+[27-Nov-2017 02:14:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:4
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(171): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 4
+[27-Nov-2017 02:14:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:4
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(171): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 4
+[27-Nov-2017 02:15:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:4
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 4
+[27-Nov-2017 02:15:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:4
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 4
+[27-Nov-2017 02:16:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:16:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:22:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:22:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:22:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:22:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:23:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:23:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:25:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:25:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:25:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:25:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:27:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:27:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:27:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:27:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:27:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:27:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:28:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:28:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:29:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:29:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:31:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:31:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:31:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:31:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:31:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:31:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:31:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:31:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:31:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:35:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:35:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:42:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:42:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:49:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[27-Nov-2017 02:49:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[30-Nov-2017 20:30:12 UTC] PHP Parse error:  syntax error, unexpected 'sendLinkDaftar' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/nadhaalditha/public_html/nadhaSys/controllers/homepage.php on line 45
+[30-Nov-2017 20:30:38 UTC] PHP Parse error:  syntax error, unexpected 'sendLinkDaftar' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/nadhaalditha/public_html/nadhaSys/controllers/homepage.php on line 45
+[30-Nov-2017 20:30:40 UTC] PHP Parse error:  syntax error, unexpected 'sendLinkDaftar' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/nadhaalditha/public_html/nadhaSys/controllers/homepage.php on line 45
+[13-Dec-2017 19:10:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[13-Dec-2017 19:10:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[13-Dec-2017 19:10:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[13-Dec-2017 19:13:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[13-Dec-2017 19:13:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[13-Dec-2017 19:15:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[13-Dec-2017 19:15:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[13-Dec-2017 19:16:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[13-Dec-2017 19:16:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php:6
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/beranda.php(172): CI_Loader->view('kreator/fastlin...')
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(94): CI_Loader->view('kreator/beranda')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->beranda()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/fastline.php on line 6
+[13-Dec-2017 19:19:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/logout.php:7
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(203): CI_Loader->view('kreator/logout')
+#3 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->logout()
+#4 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#5 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/logout.php on line 7
+[13-Dec-2017 19:19:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/logout.php:7
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(203): CI_Loader->view('kreator/logout')
+#3 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->logout()
+#4 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#5 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/logout.php on line 7
+[13-Dec-2017 19:20:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/profilSaya.php:16
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(104): CI_Loader->view('kreator/profilS...')
+#3 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->profilSaya()
+#4 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#5 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/profilSaya.php on line 16
+[13-Dec-2017 19:26:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php:5
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/profilSaya.php(184): CI_Loader->view('kreator/dataPro...', Array)
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(104): CI_Loader->view('kreator/profilS...')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->profilSaya()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php on line 5
+[13-Dec-2017 19:26:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php:5
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/profilSaya.php(184): CI_Loader->view('kreator/dataPro...', Array)
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(104): CI_Loader->view('kreator/profilS...')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->profilSaya()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php on line 5
+[13-Dec-2017 19:29:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php:5
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/profilSaya.php(184): CI_Loader->view('kreator/dataPro...', Array)
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(104): CI_Loader->view('kreator/profilS...')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->profilSaya()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php on line 5
+[13-Dec-2017 19:30:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php:5
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/profilSaya.php(184): CI_Loader->view('kreator/dataPro...', Array)
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(104): CI_Loader->view('kreator/profilS...')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->profilSaya()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php on line 5
+[13-Dec-2017 19:30:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php:5
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/profilSaya.php(184): CI_Loader->view('kreator/dataPro...', Array)
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(104): CI_Loader->view('kreator/profilS...')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->profilSaya()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php on line 5
+[13-Dec-2017 19:34:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php:22
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/profilSaya.php(184): CI_Loader->view('kreator/dataPro...', Array)
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(104): CI_Loader->view('kreator/profilS...')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->profilSaya()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php on line 22
+[13-Dec-2017 19:35:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php:22
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/profilSaya.php(184): CI_Loader->view('kreator/dataPro...', Array)
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(104): CI_Loader->view('kreator/profilS...')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->profilSaya()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php on line 22
+[13-Dec-2017 19:35:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php:22
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/profilSaya.php(184): CI_Loader->view('kreator/dataPro...', Array)
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(104): CI_Loader->view('kreator/profilS...')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->profilSaya()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php on line 22
+[13-Dec-2017 19:35:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php:22
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/profilSaya.php(184): CI_Loader->view('kreator/dataPro...', Array)
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(104): CI_Loader->view('kreator/profilS...')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->profilSaya()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php on line 22
+[13-Dec-2017 19:35:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php:22
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/profilSaya.php(184): CI_Loader->view('kreator/dataPro...', Array)
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(104): CI_Loader->view('kreator/profilS...')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->profilSaya()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php on line 22
+[13-Dec-2017 19:35:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php:22
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/views/kreator/profilSaya.php(184): CI_Loader->view('kreator/dataPro...', Array)
+#3 /home/nadhaalditha/public_html/system/core/Loader.php(833): include('/home/nadhaaldi...')
+#4 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#5 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(104): CI_Loader->view('kreator/profilS...')
+#6 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->profilSaya()
+#7 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#8 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/dataProfil.php on line 22
+[23-Dec-2017 17:39:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/ngaturLaman/berandaUtama.php:4
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/controllers/ngaturLaman.php(51): CI_Loader->view('ngaturLaman/ber...')
+#3 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): ngaturLaman->berandaUtama()
+#4 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#5 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/ngaturLaman/berandaUtama.php on line 4
+[28-Dec-2017 20:59:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/ngaturLaman/userProfile.php:14
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/controllers/ngaturLaman.php(55): CI_Loader->view('ngaturLaman/use...')
+#3 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): ngaturLaman->userProfile()
+#4 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#5 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/ngaturLaman/userProfile.php on line 14
+[08-Jan-2018 03:09:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/formEditProfil.php:5
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(126): CI_Loader->view('kreator/formEdi...')
+#3 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->formEditProfil()
+#4 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#5 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/formEditProfil.php on line 5
+[08-Jan-2018 11:56:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/formEditProfil.php:5
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(126): CI_Loader->view('kreator/formEdi...')
+#3 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->formEditProfil()
+#4 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#5 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/formEditProfil.php on line 5
+[16-Jan-2018 11:50:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/formEditProfil.php:5
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(126): CI_Loader->view('kreator/formEdi...')
+#3 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->formEditProfil()
+#4 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#5 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/formEditProfil.php on line 5
+[29-Jan-2018 13:05:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/pesan.php:7
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(109): CI_Loader->view('kreator/pesan')
+#3 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->pesan()
+#4 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#5 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/pesan.php on line 7
+[29-Jan-2018 13:05:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/formEditProfil.php:5
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(126): CI_Loader->view('kreator/formEdi...')
+#3 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->formEditProfil()
+#4 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#5 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/formEditProfil.php on line 5
+[03-Feb-2018 22:17:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/formEditProfil.php:5
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(126): CI_Loader->view('kreator/formEdi...')
+#3 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->formEditProfil()
+#4 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#5 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/formEditProfil.php on line 5
+[03-Feb-2018 22:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/formEditProfil.php:5
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(126): CI_Loader->view('kreator/formEdi...')
+#3 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->formEditProfil()
+#4 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#5 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/formEditProfil.php on line 5
+[03-Feb-2018 22:19:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/nadhaalditha/public_html/nadhaSys/views/kreator/formEditProfil.php:5
+Stack trace:
+#0 /home/nadhaalditha/public_html/system/core/Loader.php(833): include()
+#1 /home/nadhaalditha/public_html/system/core/Loader.php(419): CI_Loader->_ci_load(Array)
+#2 /home/nadhaalditha/public_html/nadhaSys/controllers/kreator.php(126): CI_Loader->view('kreator/formEdi...')
+#3 /home/nadhaalditha/public_html/system/core/CodeIgniter.php(359): kreator->formEditProfil()
+#4 /home/nadhaalditha/public_html/index.php(202): require_once('/home/nadhaaldi...')
+#5 {main}
+  thrown in /home/nadhaalditha/public_html/nadhaSys/views/kreator/formEditProfil.php on line 5
