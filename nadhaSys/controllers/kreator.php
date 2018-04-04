@@ -20,6 +20,11 @@ class kreator extends CI_Controller
         $this->load->view('kreator/login');
     }
     
+    public funtion getDataTable()
+    {
+        $this->load->view('kreator/login');
+    }
+    
     public function register()
     {
         $this->load->view('kreator/register');
