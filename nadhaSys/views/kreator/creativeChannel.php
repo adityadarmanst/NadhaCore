@@ -3,6 +3,8 @@ session_start();
 $this->load->view('koneksi');
 
 ?>
+<div class='panel panel-heading'>
+</div>
 Data caps / kreator
 <hr/>
 <table class="table table-striped b-t b-light">
