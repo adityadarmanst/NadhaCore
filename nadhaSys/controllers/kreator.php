@@ -34,12 +34,14 @@ class kreator extends CI_Controller
     {
         $data['email'] = $this->input->post('email');
         $data['hp'] = $this->input->post('hp');
-        
+        $stKosong = "";
         if(valid_email($data['email'])){
             //masuk ke pemeriksaan email dan password
             $this->load->view('kreator/cekRegistrasiAwal',$data);
+             $stKosong = "1";
         }else{
             echo "<span style='color:red;'>Format email salah, silahkan masukkan kembali !!!</span><hr>";
+             $stKosong = "2";
         }
         
     }
