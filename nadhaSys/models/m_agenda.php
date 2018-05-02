@@ -7,6 +7,9 @@ function delete($id_agenda){
 $this->db->where('id', $id_agenda);
 $this->db->delete('tbl_tes');
 }
+  function readAll(){
+  $this->db->get::All();
+  }
 
 }
 ?>
