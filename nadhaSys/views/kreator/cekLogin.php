@@ -4,6 +4,7 @@ session_start();
 function base_link(){
 echo base_url('parts/kreator/');
 }
+$defData = new Date();
 
 $link = new mysqli('localhost','nadhaalditha','3ncoding4sc11A@','nadhaald_nadha');
 
