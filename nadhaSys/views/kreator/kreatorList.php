@@ -6,6 +6,6 @@ function base_link(){
 echo base_url('parts/kreator/');
 }
 ?>
-<div>
+<div id='divUtama'>
 Please enable javascript!!
 </div>
