@@ -39,7 +39,7 @@ $this->load->helper('form');
 	
 	public function how()
 	{
-		echo "Sistem Sibuk!";
+		echo "Sistem Sibuk, done!";
 	}
 	
 	public function sendLinkDaftar()
